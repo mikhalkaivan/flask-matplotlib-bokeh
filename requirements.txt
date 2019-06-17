@@ -1,0 +1,6 @@
+bokeh
+pandas
+python-binance
+flask
+gunicorn
+matplotlib
